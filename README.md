@@ -5,3 +5,4 @@ The Titanic Dataset provides information on the fate of passengers on the Titani
 
 This self-study is a comparison of accuracy in the dataset using the methods k-Nearest Neighbor and Decision Tree.
 
++++ continue this study using python +++
